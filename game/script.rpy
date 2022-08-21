@@ -452,7 +452,7 @@ label escena102:
 
     hacker "Sácame ya, está colapsando."
 
-    jump badEnding
+    jump badending
 
 label escena101:
 
